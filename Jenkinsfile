@@ -24,4 +24,5 @@ pipeline {
                 echo 'Image step'
             }
         }
+        }
     }
